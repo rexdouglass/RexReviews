@@ -1,0 +1,79 @@
+[
+    {
+        "date_posted": "2025-07-16T09:26:00.000Z",
+        "topic": "Data Science",
+        "title": "Poor-Quality, Formulaic Papers Generated from Open-Access Health Data",
+        "summary": "A Nature article reports on how five large open-access health databases are being exploited to generate thousands of low-quality, formulaic research papers, raising concerns about scientific integrity.",
+        "url": "https://www.nature.com/articles/d41586-025-02241-2?utm_source=x&utm_medium=social&utm_campaign=nature&linkId=15756071"
+    },
+    {
+        "date_posted": "2025-07-16T16:02:40.000Z",
+        "topic": "Research",
+        "title": "The Challenge of Paper Mills and Commercialized Scientific Misconduct",
+        "summary": "An essay on the growing problem of 'paper mills' that mass-produce fraudulent scientific papers and the commercialization of academic misconduct.",
+        "url": "https://www.laborjournal.de/rubric/essays/essays2025/e25_05.php"
+    },
+    {
+        "date_posted": "2025-07-16T20:53:04.000Z",
+        "topic": "AI/ML",
+        "title": "Rex Reviews: A Curated News Digest for AI/ML",
+        "summary": "The launch of a new, curated digest and link aggregator called Rex Reviews, providing the latest news in AI/ML, NLP, Computer Vision, and Causal Inference.",
+        "url": "https://github.com/rexdouglass/RexReviews"
+    },
+    {
+        "date_posted": "2025-07-16T16:48:18.000Z",
+        "topic": "Tooling",
+        "title": "Official Google Gemini CLI Roadmap Published",
+        "summary": "The official roadmap for the Google Gemini CLI has been released on GitHub, detailing guiding principles and key areas of future development.",
+        "url": "https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md"
+    },
+    {
+        "date_posted": "2025-07-16T14:00:36.000Z",
+        "topic": "Generative AI",
+        "title": "Blog: Build Production-Ready GenAI with Temporal, Gemini, and Veo",
+        "summary": "A technical blog post from Temporal demonstrating how to build robust, production-ready generative AI video applications using Temporal's workflow orchestration with Google's Gemini and Veo models.",
+        "url": "https://temporal.io/blog/build-prod-ready-gen-ai-temporal-gemini-veo"
+    },
+    {
+        "date_posted": "2025-07-16T05:26:13.000Z",
+        "topic": "Causal Inference",
+        "title": "ArXiv Paper: Dynamic Causal Effects in a Nonlinear World",
+        "summary": "A research paper analyzing the challenges and nuances of determining dynamic causal effects in complex, nonlinear systems.",
+        "url": "https://arxiv.org/abs/2411.10415"
+    },
+    {
+        "date_posted": "2025-07-16T18:28:51.000Z",
+        "topic": "Deep Learning",
+        "title": "ICML Paper Presentation: \"Deep Learning is Not So Mysterious or Different\"",
+        "summary": "A video overview of a paper presented at ICML 2025, arguing that the core principles of deep learning are analogous to established concepts in science and engineering.",
+        "url": "https://recorder-v3.slideslive.com/#/share?share=101946&s=cdcb0828-4afd-4a91-9d1e-35441e62ea8d"
+    },
+    {
+        "date_posted": "2025-07-16T15:35:18.000Z",
+        "topic": "Computer Vision",
+        "title": "Supervision Library v0.26.0 Release",
+        "summary": "The `supervision` library for computer vision has released version 0.26.0, featuring support for VLM object detection, optimized annotators, and a documentation revamp.",
+        "url": "https://github.com/roboflow/supervision/releases/tag/0.26.0"
+    },
+    {
+        "date_posted": "2025-07-16T14:00:36.000Z",
+        "topic": "Generative AI",
+        "title": "Code: Production-Ready GenAI with Temporal and Gemini",
+        "summary": "The companion GitHub repository containing the source code for the blog post on building production-ready video generation applications with Temporal and Google's AI models.",
+        "url": "https://github.com/kawofong/temporal-videogen/tree/main"
+    },
+    {
+        "date_posted": "2025-07-15T23:59:48.000Z",
+        "topic": "Data Science",
+        "title": "Talk: The Difficulty of Geo-Referencing Events Correctly",
+        "summary": "A technical talk on the challenges of accurate event geo-referencing and a warning against using regressions with unverified GIS strategies.",
+        "url": "https://www.youtube.com/watch?v=BsNwvqnyQBU"
+    },
+    {
+        "date_posted": "2025-07-16T17:34:20.000Z",
+        "topic": "Computer Vision",
+        "title": "Supervision Library Adds ViTPose and ViTPose++ Support",
+        "summary": "As part of its v0.26.0 release, the `supervision` library now supports ViTPose and ViTPose++ pose estimation models from Hugging Face Transformers.",
+        "url": "https://github.com/roboflow/supervision"
+    }
+]
