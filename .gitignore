@@ -2,3 +2,7 @@
 .env
 data/
 source/
+/data
+/data/*
+/data/json/
+data/json/2025-07-16/processed_data.json
