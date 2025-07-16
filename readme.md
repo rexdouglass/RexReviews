@@ -1,6 +1,19 @@
 # Rex Reviews
 
-A curated list of technical news and resources.
+I'm launching Rex Reviews, a new, curated digest of the latest in AI and ML.
+
+[https://github.com/rexdouglass/RexReviews](https://github.com/rexdouglass/RexReviews)
+
+Topics include: NLP & Agents ️ Machine Vision  Causal Inference ️ General AI/ML Tooling
+
+---
+
+## Contents
+- [Rex Reviews July 16](#rex-reviews-july-16)
+- [Rex Reviews July 15](#rex-reviews-july-15)
+
+---
+
 ## Rex Reviews July 16
 
 ### Causal Inference
