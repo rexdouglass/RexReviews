@@ -4,106 +4,39 @@ I'm launching Rex Reviews, a new, curated digest of the latest in AI and ML.
 
 [https://github.com/rexdouglass/RexReviews](https://github.com/rexdouglass/RexReviews)
 
-Topics include: NLP & Agents ️ Machine Vision  Causal Inference ️ General AI/ML Tooling
+Topics include: NLP & Agents 	 Machine Vision  Causal Inference 	 General AI/ML Tooling
 
 ---
 
-## Contents
-- [Rex Reviews July 16](#rex-reviews-july-16)
-- [Rex Reviews July 15](#rex-reviews-july-15)
+## July 16, 2025
 
----
+### Data Science
+- **Poor-Quality, Formulaic Papers Generated from Open-Access Health Data**: A Nature article reports on how five large open-access health databases are being exploited to generate thousands of low-quality, formulaic research papers, raising concerns about scientific integrity. [Link](https://www.nature.com/articles/d41586-025-02241-2?utm_source=x&utm_medium=social&utm_campaign=nature&linkId=15756071)
 
-## Rex Reviews July 16
+### Research
+- **The Challenge of Paper Mills and Commercialized Scientific Misconduct**: An essay on the growing problem of 'paper mills' that mass-produce fraudulent scientific papers and the commercialization of academic misconduct. [Link](https://www.laborjournal.de/rubric/essays/essays2025/e25_05.php)
+
+### AI/ML
+- **Rex Reviews: A Curated News Digest for AI/ML**: The launch of a new, curated digest and link aggregator called Rex Reviews, providing the latest news in AI/ML, NLP, Computer Vision, and Causal Inference. [Link](https://github.com/rexdouglass/RexReviews)
+
+### Tooling
+- **Official Google Gemini CLI Roadmap Published**: The official roadmap for the Google Gemini CLI has been released on GitHub, detailing guiding principles and key areas of future development. [Link](https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md)
+
+### Generative AI
+- **Blog: Build Production-Ready GenAI with Temporal, Gemini, and Veo**: A technical blog post from Temporal demonstrating how to build robust, production-ready generative AI video applications using Temporal's workflow orchestration with Google's Gemini and Veo models. [Link](https://temporal.io/blog/build-prod-ready-gen-ai-temporal-gemini-veo)
+- **Code: Production-Ready GenAI with Temporal and Gemini**: The companion GitHub repository containing the source code for the blog post on building production-ready video generation applications with Temporal and Google's AI models. [Link](https://github.com/kawofong/temporal-videogen/tree/main)
 
 ### Causal Inference
-
-**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**
-A paper exploring the estimation of dynamic causal effects in nonlinear environments using machine learning methods.
-https://arxiv.org/abs/2411.10415
-
-### Data Analysis
-
-**Why You Should Never Trust a Geo-Referenced Regression**
-A talk discussing the challenges and pitfalls of correctly geo-referencing events and using GIS data in regression analysis.
-https://www.youtube.com/watch?v=BsNwvqnyQBU
+- **ArXiv Paper: Dynamic Causal Effects in a Nonlinear World**: A research paper analyzing the challenges and nuances of determining dynamic causal effects in complex, nonlinear systems. [Link](https://arxiv.org/abs/2411.10415)
 
 ### Deep Learning
+- **ICML Paper Presentation: "Deep Learning is Not So Mysterious or Different"**: A video overview of a paper presented at ICML 2025, arguing that the core principles of deep learning are analogous to established concepts in science and engineering. [Link](https://recorder-v3.slideslive.com/#/share?share=101946&s=cdcb0828-4afd-4a91-9d1e-35441e62ea8d)
 
-**Deep Learning is Not So Mysterious or Different**
-A presentation from ICML arguing that many concepts in deep learning have parallels in traditional statistics and signal processing.
-https://recorder-v3.slideslive.com/#/share?share=101946&s=cdcb0828-4afd-4a91-9d1e-35441e62ea8d
+### Computer Vision
+- **Supervision Library v0.26.0 Release**: The `supervision` library for computer vision has released version 0.26.0, featuring support for VLM object detection, optimized annotators, and a documentation revamp. [Link](https://github.com/roboflow/supervision/releases/tag/0.26.0)
+- **Supervision Library Adds ViTPose and ViTPose++ Support**: As part of its v0.26.0 release, the `supervision` library now supports ViTPose and ViTPose++ pose estimation models from Hugging Face Transformers. [Link](https://github.com/roboflow/supervision)
 
-### LLMs
+## July 15, 2025
 
-**Build Production-Ready Generative AI with Temporal, Gemini, and Veo**
-A guide and accompanying code for building a robust video generation pipeline using Temporal for orchestration with Google's Gemini and Veo models.
-https://temporal.io/blog/build-prod-ready-gen-ai-temporal-gemini-veo
-
-### Packages
-
-**supervision 0.26.0 Release**
-This release of the `supervision` library adds support for VLM object detection and ViTPose/ViTPose++ pose estimation models from Hugging Face.
-https://github.com/roboflow/supervision/releases/tag/0.26.0
-
-### Tools
-
-**Gemini CLI Roadmap**
-A look at the official development roadmap and guiding principles for the Gemini command-line interface.
-https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md
-## Rex Reviews July 15
-
-### LLMs
-
-**Grok 4 & Grok 4 Heavy**
-
-xAI launched new proprietary models with 256k context and native tool use, claiming state-of-the-art performance on expert-level reasoning benchmarks.
-https://x.ai/news/grok-4
-
-**Kimi K2 Open-Source Model**
-
-Moonshot AI released a massive 1-trillion-parameter open-weight MoE model engineered specifically for agentic tasks and coding.
-https://huggingface.co/moonshotai/Kimi-K2-Instruct
-
-**Swiss Sovereign LLM**
-
-ETH Zurich and EPFL announced the development of a public, open, and multilingual 70B parameter model on a national supercomputer.
-https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
-
-### AI Agents
-
-**Google Vertex AI Memory Bank**
-
-Google launched a critical infrastructure piece providing persistent, long-term memory for AI agents to enable stateful applications.
-https://cloud.google.com/blog/products/ai-machine-learning
-
-**Agent-Native Model Design**
-
-The architecture of Grok 4 and Kimi K2 demonstrates that new frontier models are being built as agentic platforms from the ground up.
-
-### Machine Vision
-
-**Apple's CVPR Releases**
-
-Apple released FastVLM for efficient on-device vision and Matrix3D for 3D reconstruction, focusing on both product integration and foundational AR/VR tech.
-https://machinelearning.apple.com/research/cvpr-2025
-
-### Robotics & Automation
-
-**Mobile OCT Eye-Imaging Robot**
-
-The University of Michigan developed a robotic system that autonomously brings high-precision eye imaging to patients with limited mobility.
-https://robotics.umich.edu/news/2025/improving-accessibility-for-precise-eye-imaging/
-
-**UniTac Sensor-less Touch**
-
-A new technique enables whole-robot touch sensing without dedicated tactile sensors, promising safer and more affordable interactive robots.
-https://arxiv.org/abs/2507.07980
-
-### Causal Inference
-
-**Efficient Distributional Treatment Effects**
-
-A new paper and Python library (dte-adj) introduces a method to make a granular form of A/B test analysis computationally feasible for large-scale use.
-https://arxiv.org/abs/2507.07738
-
+### Data Science
+- **Talk: The Difficulty of Geo-Referencing Events Correctly**: A technical talk on the challenges of accurate event geo-referencing and a warning against using regressions with unverified GIS strategies. [Link](https://www.youtube.com/watch?v=BsNwvqnyQBU)
