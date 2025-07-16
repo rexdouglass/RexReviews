@@ -1,6 +1,3 @@
-# Rex Reviews
-
-A curated list of technical news and resources.
 ## Rex Reviews July 16
 
 ### Causal Inference
