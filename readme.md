@@ -2,7 +2,7 @@
 
 I'm launching Rex Reviews, a new, curated digest of the latest in AI and ML.
 
-[https://github.com/rexdouglass/RexReviews](https://github.com/rexdouglass/RexReviews)
+[https://www.rexdouglass.com](https://www.rexdouglass.com) | [https://github.com/rexdouglass/RexReviews](https://github.com/rexdouglass/RexReviews)
 
 Topics include: NLP & Agents 	 Machine Vision  Causal Inference 	 General AI/ML Tooling
 
