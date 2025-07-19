@@ -8,59 +8,136 @@ Topics include: NLP & Agents 	 Machine Vision  Causal Inference 	 General AI/ML 
 
 ---
 
+## July 19, 2025
+
+* AI Agents
+    - **[ALE-Agent: A Language-based Search for Solving Hard Optimization Problems](https://sakana.ai/ale-bench/)** - Introduces ALE-Agent, a new coding agent from Sakana AI designed to tackle NP-hard optimization problems by using a language-model-based search to generate and refine solutions. `Blog`
+    - **[ALE-Agent: A Language-based Search for Solving Hard Optimization Problems](https://arxiv.org/abs/2506.09050)** - The research paper for ALE-Agent, a new coding agent from Sakana AI designed to tackle NP-hard optimization problems whose true optima are computationally out of reach. `Paper`
+
+* AI/AGI
+    - **[ARC AGI 3 Games](https://play-arc-agi-3.replit.app/)** - An interactive web application where users can try to solve puzzles from the Abstraction and Reasoning Corpus (ARC) AGI 3 benchmark, which is designed to test generalization and abstract reasoning abilities. `Code`
+
+* Algorithms
+    - **[Algorithms for Optimization, Decision Making, and Validation](https://algorithmsbook.com/)** - A website hosting a set of three free textbooks from MIT Press. The books cover algorithm theory and core machine learning concepts, including optimization, decision making, and model validation. `Book`
+
+* Deep Learning Theory
+    - **[Approximation Rates for Shallow ReLU$^k$ Neural Networks on Sobolev Spaces via the Radon Transform](https://arxiv.org/abs/2408.10996)** - A theoretical paper that investigates the approximation rates of shallow neural networks with ReLU^k activation functions on Sobolev spaces, utilizing the Radon Transform in its analysis. `Paper`
+
+* Econometrics
+    - **[When can we get away with using the two-way fixed effects regression?](https://www.dropbox.com/scl/fi/c9u07hcf78b194h3rusac/Aa_Alal_Gettingawayw2wfe_Apoorva-Lal.pdf?rlkey=aakbb16o1gughjfekoo07zu96&e=1&st=bs6ey9s0&dl=0)** - A paper discussing the specific conditions and assumptions under which the two-way fixed effects (2WFE) regression model is an appropriate and reliable method for causal inference. `Paper`
+
+* Economics
+    - **[Reading Abundance from China](https://afraw.substack.com/p/reading-abundance-from-china)** - A blog post discussing the concept of 'abundance' by analyzing China's economic and production capacity, and what it might signal for the global economy. `Blog`
+
+* LLM Benchmarking
+    - **[Math Arena: IMO Grand Challenge Progress](https://matharena.ai/imo/)** - A website tracking the performance of large language models on problems from the International Mathematical Olympiad (IMO), suggesting that while models are impressive, they are not yet at a 'talented high-school' level for these tasks. `Blog`
+
+* Machine Learning
+    - **[Bounding the Worst-class Error: A Boosting Approach](https://arxiv.org/abs/2310.14890)** - A paper that introduces a boosting-based approach to derive a tight, high-probability bound on the worst-class error in multi-class classification problems. `Paper`
+    - **[Nonparametric IPSS: Fast, flexible feature selection with false discovery control](https://arxiv.org/abs/2410.02208)** - This paper presents Nonparametric IPSS, a method for fast and flexible feature selection in high-dimensional data that provides statistical control over the false discovery rate. `Paper`
+
+* Reinforcement Learning
+    - **[Accelerating fusion science through learned plasma control](https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/)** - A DeepMind blog post detailing the use of reinforcement learning to develop a controller for the magnetic confinement of plasma in a tokamak, a key challenge in fusion energy research. `Blog`
+    - **[On Two Different Roles of Simulators in Reinforcement Learning](https://nanjiang.cs.illinois.edu/2025/07/16/simulator.html)** - A technical blog post that clarifies the two distinct roles that simulators play in reinforcement learning (as a generative model of the environment vs. a means for planning) and addresses common confusions surrounding them. `Blog`
+    - **[SimpleTIR: A Simple Approach to Teach LLM to Use Tools](https://simpletir.notion.site/report)** - A report on SimpleTIR, a method that uses only reinforcement learning (without knowledge distillation) to teach a base language model how to dynamically switch between using external tools and relying on its own textual reasoning capabilities, particularly on math benchmarks. `Blog`
+
+* Software Development
+    - **[To Vibe Code or Not to Vibe Code?](https://sonamcoffeenlp.substack.com/p/to-vibe-code-or-not-to-vibe-code?r=pon7a&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false&triedRedirect=true)** - A blog post discussing 'vibe coding,' the practice of writing code with heavy AI assistance and hoping it compiles, reflecting on its potential benefits and pitfalls. `Blog`
+
 ## July 18, 2025
+
+* AI Agents
+    - **[DSPy](https://dspy.ai/)** - DSPy is a framework for algorithmically optimizing language model prompts and weights. It provides a structured way to build complex systems on top of foundation models. `Package`
+    - **[Trace](https://microsoft.github.io/Trace/)** - Trace is an agentic framework developed by AllenAI, designed for building and managing complex AI agent workflows. `Package`
+
+* AI Development
+    - **[LLMS.TXT for Gemini API Docs](https://ai.google.dev/)** - Google has enabled `llms.txt` for the Gemini API documentation at ai.google.dev. This provides model-friendly instructions to guide code agents and improve the usage of the latest APIs and SDKs. `Blog`
+
+* Audio AI
+    - **[Audio-Flamingo 3](https://huggingface.co/nvidia/audio-flamingo-3)** - An open Large Audio-Language Model (LALM) from NVIDIA Research, trained on sound, speech, and music. It can handle 10-minute audio inputs, long-form text, and is designed for audio question-answering, dialog, and reasoning. `Package`
+
+* Causal Inference
+    - **[Formalising causal inference as prediction on a target population](https://arxiv.org/abs/2407.17385)** - A paper that proposes a new formalism for causal inference, framing it as a problem of prediction on a specific target population. `Paper`
+
+* Code Verification
+    - **[PyPantograph](https://github.com/stanford-centaur/PyPantograph)** - PyPantograph is a tool that serves as a Python-Lean interface. It is designed to facilitate the formal verification of Python code by translating it to the Lean theorem prover. `Code`
+    - **[VeriBench: A Benchmark for Verifying Python-to-Lean Translations](https://openreview.net/forum?id=rWkGFmnSNl#discussion)** - Introduces VeriBench, a new benchmark designed to challenge AI agents on verifying code correctness by translating Python programs into the Lean theorem prover. The work was nominated for an award at the MATH-AI workshop at ICML. `Paper`
+
+* Computer Vision
+    - **[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://github.com/MIT-SPARK/VGGT-SLAM)** - A GitHub repository for VGGT-SLAM, a system for dense RGB Simultaneous Localization and Mapping (SLAM) that is optimized on the Special Linear Group SL(4) manifold. `Code`
+
+* Deep Learning
+    - **[SGD on L2-regularized linear networks: A new take on the implicit bias of a classic algorithm](https://arxiv.org/abs/2505.18651)** - A paper that provides a new perspective on the implicit bias of Stochastic Gradient Descent (SGD) when applied to L2-regularized linear neural networks. `Paper`
+
+* Diffusion Models
+    - **[A Step-by-Step Guide to Diffusion Models](https://arxiv.org/pdf/2406.08929)** - A paper providing a detailed, step-by-step tutorial and guide to understanding the theory and implementation of diffusion models for generative tasks. `Paper`
 
 * Graph Neural Networks
     - **[Catching Bid-rigging Cartels with Graph Attention Neural Networks](https://arxiv.org/abs/2507.12369)** - A paper exploring the use of Graph Attention Neural Networks (GNNs) for the task of detecting bid-rigging cartels. `Paper`
 
+* Machine Learning
+    - **[Near-Optimal Entrywise-Different Private Covariance Estimation](https://arxiv.org/abs/2502.09863)** - A paper on private covariance estimation, a fundamental statistical task, that achieves near-optimal guarantees under entrywise-different privacy constraints. `Paper`
+
+* Scientific Communication
+    - **[Problems with the conventions of journalism and academic writing](https://statmodeling.stat.columbia.edu/2025/07/18/problems-with-the-conventions-of-journalism-everything-has-to-be-presented-as-new-and-academic-writing-everything-has-to-be-presented-as-important/)** - A blog post from Statistical Modeling, Causal Inference, and Social Science discussing the problematic conventions in both journalism and academic writing, where everything is framed as either brand new or highly important. `Blog`
+
+* Uncertainty Quantification
+    - **[Surrogate modeling for uncertainty quantification in nonlinear dynamics](https://arxiv.org/abs/2507.12358)** - A paper exploring the use of surrogate models as an efficient method for performing uncertainty quantification in the context of complex, nonlinear dynamical systems. `Paper`
+
 ## July 17, 2025
 
-* Causal Inference / Healthcare
-    - **[From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies](https://arxiv.org/abs/2507.11381)** - A paper presenting a causal framework designed to estimate patient-level treatment effects from observational data, with the goal of learning effective clinical recommendation policies. `Paper`
+* Causal Inference
+    - **[Causality in the Flesh? A Large-Scale Analysis of Causal Claims in Economics](https://arxiv.org/abs/2501.06873)** - A paper that performs a large-scale analysis of causal claims in economics, examining 44,000 working papers from the National Bureau of Economic Research (NBER) and the Centre for Economic Policy Research (CEPR). `Paper`
+    - **[From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies](https://arxiv.org/abs/2507.11381)** - A paper presenting a causal framework for estimating patient-level treatment effects and learning optimal policies from observational data, with a focus on generating clinical recommendations. `Paper`
 
-* Causal Inference / NLP
-    - **[Analyzing Causal Claims in Economics from 44,000 NBER and CEPR Working Papers](https://arxiv.org/abs/2501.06873)** - A research paper that analyzes causal claims made in a corpus of 44,000 working papers from the National Bureau of Economic Research (NBER) and the Centre for Economic Policy Research (CEPR). `Paper`
+* Competitive Programming
+    - **[AtCoder Live: Discussion with Sakana AI and OpenAI](https://youtube.com/live/TG3ChQH61vE)** - A video of an AtCoder YouTube program featuring a conversation between Takuya Akiba, a researcher from Sakana AI, and a developer from OpenAI, discussing topics related to competitive programming and AI. `Video`
 
-* Computer Vision / Tooling
-    - **[supervision 0.26.0](https://github.com/roboflow/supervision)** - The release of `supervision` v0.26.0, a library that now includes enhanced tools for parsing and visualizing results from top Vision Language Models (VLMs) for tasks like detection and segmentation. `Package`
+* Computer Vision
+    - **[supervision](https://github.com/roboflow/supervision)** - The 'supervision' library by Roboflow has been updated to include more tools for parsing and visualizing results from top Vision Language Models (VLMs), enhancing their detection and segmentation capabilities. `Package`
+
+* Content Curation
+    - **[Rex Reviews](https://github.com/rexdouglass/RexReviews)** - A GitHub repository for 'Rex Reviews,' a personal collection and curation of reviews and other content. `Code`
+
+* Data Analysis
+    - **[An Analysis of My Research Outputs](https://b-rodrigues.github.io/research_outputs_analysis/)** - An example of a reproducible analysis published on GitHub Pages. The project demonstrates a workflow using Quarto, Observable (for graphs), R, and the rix/rixpress packages which facilitate using Nix for R environments. `Blog`
+
+* Data Science
+    - **[Addressing Measurement Errors in Ranking Questions for the Social Sciences](https://www.cambridge.org/core/journals/political-analysis/article/addressing-measurement-errors-in-ranking-questions-for-the-social-sciences/6960C9B762A182E2C5C064E4F32D26AD)** - A political analysis paper detailing a method to account for measurement errors in social science ranking questions. The study finds that a significant portion of respondents may provide random answers, which can affect substantive conclusions if not properly modeled. `Paper`
 
 * Data Science / Statistics
     - **[Temporal Changes in the Quantity of Conceptions Influence Preterm Births Rates at the Population Level](https://osf.io/cmr58_v2/)** - A preprint on SocArXiv studying the influence of temporal changes in the number of conceptions on the rates of preterm births at a population level. `Paper`
 
-* Data Science / Tooling / Reproducibility
-    - **[Example Analysis using Quarto, Observable, R, and Nix](https://b-rodrigues.github.io/research_outputs_analysis/)** - An example of a reproducible analysis published on GitHub Pages. The project demonstrates a workflow using Quarto, Observable for graphs, R, and the `rix` and `rixpress` packages for Nix integration. `Blog`
-
-* Data Science Education / Statistics
-    - **[Probability and Statistics for Data Science](https://www.ps4ds.net/)** - A free, 700-page online textbook by Carlos Fernandez-Granda, condensing 10 years of teaching at NYU. It includes 200 exercises, 102 Jupyter notebooks, and 115 videos. `Blog`
-
 * Geospatial Analysis / Data Science
     - **[Green schoolyard investments influence local-level economic and equity outcomes through spatial-statistical modeling and geospatial analysis in urban contexts](https://osf.io/td9bm_v1/)** - A preprint on SocArXiv using spatial-statistical modeling and geospatial analysis to study how investments in green schoolyards affect local economic and equity outcomes in urban areas. `Paper`
 
-* LLMs
-    - **[ConflLlama: Domain-specific adaptation of large language models for conflict event classification](https://journals.sagepub.com/doi/full/10.1177/20531680251356282)** - A research paper on ConflLlama, a large language model specifically adapted for the domain-specific task of classifying conflict events. `Paper`
+* LLM Benchmarking
+    - **[Putnam-AXIOM: An Advanced Mathematics Contamination-Resilient Benchmark](https://openreview.net/forum?id=kqj2Cn3Sxr)** - A new benchmark, Putnam-AXIOM, uses 522 problems from the Putnam Competition to evaluate the mathematical reasoning skills of foundation models. It is designed to be resilient to test set contamination and highlights the need for dynamic splits and step metrics to avoid over-claiming model capabilities. `Paper`
 
 * LLMs / AI Agents
     - **[Introducing ChatGPT agent](https://openai.com/index/introducing-chatgpt-agent/)** - OpenAI introduces the ChatGPT agent, a model trained to use multiple tools and interfaces, including a GUI, to solve complex tasks efficiently. `Blog`
 
 * LLMs / Benchmarking
     - **[Putnam-AXIOM ICML 2025 Poster](https://icml.cc/virtual/2025/poster/44232)** - The ICML 2025 conference poster presentation for the Putnam-AXIOM paper, a benchmark for evaluating mathematical reasoning in foundation models. `Blog`
-    - **[Putnam-AXIOM: A Contamination-Resilient Benchmark for Foundation Models' Mathematical Reasoning](https://openreview.net/forum?id=kqj2Cn3Sxr)** - This paper introduces Putnam-AXIOM, a new benchmark using problems from the Putnam Competition to evaluate the mathematical reasoning of large language models. It is designed to be resilient to pre-training data contamination, an issue with existing benchmarks like MATH and GSM8K. `Paper`
     - **[State-of-the-art on MATH: Math Word Problem Solving](https://paperswithcode.com/sota/math-word-problem-solving-on-math)** - A link to the PapersWithCode leaderboard for the MATH dataset. The tweet notes that existing benchmarks like MATH and GSM8K are becoming saturated, with top models achieving over 90% accuracy. `Blog`
 
 * LLMs / MLOps
     - **[DeepSeek is now available for everyone in Vertex AI Model Garden](https://cloud.google.com/blog/products/ai-machine-learning/deepseek-r1-is-available-for-everyone-in-vertex-ai-model-garden/)** - The DeepSeek large language model is now available as a pay-as-you-go, model-as-a-service option in Google Cloud's Vertex AI Model Garden, removing the need for users to manage their own infrastructure. `Blog`
 
-* Reproducibility / Data Science
-    - **[Assessing Computational Reproducibility in Economics](https://www.nber.org/papers/w33753)** - A paper by Brodeur et al. that assesses the state of computational reproducibility in economics by leveraging the Social Science Reproduction Platform. `Paper`
+* NLP Interpretability
+    - **[Leveraging the Sequential Nature of Language for Interpretability](https://openreview.net/pdf?id=hgPf1ki6dx)** - A paper presenting a new method for model interpretability in NLP that specifically leverages the sequential nature of language to provide insights into model behavior. `Paper`
 
-* Reproducibility / Meta-Science
-    - **[Low-quality papers based on public health data are flooding the scientific literature](https://www.nature.com/articles/d41586-025-02241-2)** - A Nature article discussing the growing problem of low-quality scientific papers based on public health data, which threatens the integrity of the scientific literature. `Blog`
+* Natural Language Processing
+    - **[ConflLlama: Domain-specific adaptation of large language models for conflict event classification](https://journals.sagepub.com/doi/full/10.1177/20531680251356282)** - A paper on ConflLlama, a project involving the domain-specific adaptation of Large Language Models (LLMs) for the task of classifying conflict events from text. `Paper`
 
-* Statistics / Social Science
-    - **[Addressing Measurement Errors in Ranking Questions for the Social Sciences](https://www.cambridge.org/core/journals/political-analysis/article/addressing-measurement-errors-in-ranking-questions-for-the-social-sciences/6960C9B762A182E2C5C064E4F32D26AD)** - This paper presents a method to address measurement errors in ranking-style survey questions, finding that a significant percentage of respondents may give random answers, which can affect substantive conclusions. `Paper`
+* Probability & Statistics
+    - **[Probability and Statistics for Data Science](https://www.ps4ds.net/)** - A 700-page textbook by NYU's Carlos Fernandez-Granda, condensing 10 years of teaching experience. The resource includes 200 exercises, 102 Jupyter notebooks, and 115 videos. `Book`
 
-* Tooling / Code
-    - **[Rex Reviews](https://github.com/rexdouglass/RexReviews)** - A GitHub repository titled 'Rex Reviews' by user rexdouglass, updated on July 17, 2025. `Code`
+* Reproducibility
+    - **[Replication in Economics: A Meta-Analysis of the Social Science Reproduction Platform](https://www.nber.org/papers/w33753)** - A paper by Brodeur et al. that assesses the state of computational reproducibility in economics by performing a meta-analysis of submissions to the Social Science Reproduction Platform (SSRP). `Paper`
+
+* Scientific Publishing
+    - **[Low-quality papers based on public health data are flooding the scientific literature](https://www.nature.com/articles/d41586-025-02241-2)** - A Nature news article discussing the growing problem of low-quality, sometimes erroneous, scientific papers based on public health data being published, and the challenges this poses for the scientific community. `Blog`
 
 * Tooling / Data Extraction
     - **[New Ninajirachi screen scraper // process mining // SceneText core](https://www.youtube.com/watch?v=p2ZdeIKJA8c&feature=youtu.be)** - A video demonstrating a new screen scraper tool with applications in process mining and SceneText core. `Video`
