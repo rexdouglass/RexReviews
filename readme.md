@@ -2,11 +2,16 @@
 
 I'm launching Rex Reviews, a new, curated digest of the latest in AI and ML.
 
-[https://www.rexdouglass.com](https://www.rexdouglass.com) | [https://github.com/rexdouglass/RexReviews](https://github.com/rexdouglass/RexReviews)
+[https://www.rexdouglass.com](https://www.rexdouglass.com)
 
-Topics include: NLP & Agents 	 Machine Vision  Causal Inference 	 General AI/ML Tooling
+Topics include: NLP & Agents ,	 Machine Vision,  Causal Inference ,	 General AI/ML Tooling
 
 ---
+
+## July 20, 2025
+
+* Computer Vision
+    - **[Rethinking and Improving the Training of Image-Text Retrieval Models](https://arxiv.org/abs/2505.13174v1)** - This paper identifies and addresses issues in training image-text retrieval (ITR) models. The authors propose a new loss function, Smooth-NCE, to balance gradients from hard negatives, and a momentum-refreshed memory bank for better negative sampling. Their methods, combined with best practices for training, achieve state-of-the-art results on MS-COCO and Flickr30K benchmarks by improving training stability and performance. `Paper`
 
 ## July 19, 2025
 
@@ -28,6 +33,9 @@ Topics include: NLP & Agents 	 Machine Vision  Causal Inference 	 General AI/ML 
 
 * Economics
     - **[Reading Abundance from China](https://afraw.substack.com/p/reading-abundance-from-china)** - A blog post discussing the concept of 'abundance' by analyzing China's economic and production capacity, and what it might signal for the global economy. `Blog`
+
+* Generative AI
+    - **[Self-Correcting Feature Representation for Fast and Accurate Text-to-Image Generation](https://nips.cc/virtual/2024/poster/93186)** - This paper introduces the Self-Correcting Feature Representation (SCFR) framework to accelerate text-to-image diffusion models. SCFR works by progressively refining feature representations in a latent space, allowing the model to correct errors at each step and reducing the number of sampling steps required. The proposed lightweight correction module can be integrated into existing pre-trained models like Stable Diffusion, achieving up to a 4x speedup while maintaining or improving image quality. `Paper`
 
 * LLM Benchmarking
     - **[Math Arena: IMO Grand Challenge Progress](https://matharena.ai/imo/)** - A website tracking the performance of large language models on problems from the International Mathematical Olympiad (IMO), suggesting that while models are impressive, they are not yet at a 'talented high-school' level for these tasks. `Blog`
