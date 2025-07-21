@@ -8,6 +8,11 @@ Topics include: NLP & Agents ,	 Machine Vision,  Causal Inference ,	 General AI/
 
 ---
 
+## July 21, 2025
+
+* AI/ML
+    - **[Qwen3-235B-A22B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507)** - The official Hugging Face model card for Qwen3-235B-A22B-Instruct-2507, a large language model from the Qwen3 series. The page provides model details, usage examples, and licensing information. `Package`
+
 ## July 20, 2025
 
 * Computer Vision
@@ -21,6 +26,10 @@ Topics include: NLP & Agents ,	 Machine Vision,  Causal Inference ,	 General AI/
 
 * AI/AGI
     - **[ARC AGI 3 Games](https://play-arc-agi-3.replit.app/)** - An interactive web application where users can try to solve puzzles from the Abstraction and Reasoning Corpus (ARC) AGI 3 benchmark, which is designed to test generalization and abstract reasoning abilities. `Code`
+
+* AI/ML
+    - **[NVIDIA Nemotron-4-340B: A New Family of Open Models for Synthetic Data Generation](https://huggingface.co/blog/nvidia/openreasoning-nemotron)** - An official blog post from NVIDIA and Hugging Face introducing the Nemotron-4-340B model family. It details the models' architecture and their design for generating high-quality synthetic data to train other large language models. `Blog`
+    - **[OpenReasoning & Nemotron Models](https://huggingface.co/collections/nvidia/openreasoning-nemotron-687730dae0170059860f1f01)** - A curated Hugging Face collection of models related to NVIDIA's OpenReasoning and Nemotron series. It brings together the base, instruction-tuned, and reward models for easy access and download. `Package`
 
 * Algorithms
     - **[Algorithms for Optimization, Decision Making, and Validation](https://algorithmsbook.com/)** - A website hosting a set of three free textbooks from MIT Press. The books cover algorithm theory and core machine learning concepts, including optimization, decision making, and model validation. `Book`
