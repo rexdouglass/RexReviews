@@ -8,10 +8,80 @@ Topics include: NLP & Agents ,	 Machine Vision,  Causal Inference ,	 General AI/
 
 ---
 
+## July 22, 2025
+
+* AI Infrastructure
+    - **[Google Cloud and Somnia Network partner to redefine gaming with AI](https://t.co/OE2a70XP6V)** - An announcement of the partnership between Google Cloud and Somnia Network to integrate infrastructure and AI agent development platforms for game developers. `Blog`
+
+* Causal Inference
+    - **[Honesty in Causal Forests: When It Helps and When It Hurts](https://arxiv.org/abs/2506.13107)** - A paper analyzing the impact of 'honesty' in causal forest models, discussing scenarios where it is beneficial and where it is not. `Paper`
+    - **[Leveraging Covariates in Regression Discontinuity Designs](https://arxiv.org/abs/2507.14311)** - A paper on methods for leveraging covariates in Regression Discontinuity Designs (RDD) to improve estimation. `Paper`
+    - **[Policy relevance of causal quantities in networks](https://arxiv.org/abs/2507.14391)** - A paper discussing the policy relevance of various causal quantities when conducting analysis on networked data. `Paper`
+
+* Computer Vision
+    - **[Detect the 3 Second Violation in NBA Videos with AI](https://blog.roboflow.com/detect-3-second-violation-ai-basketball/)** - A blog post and open-source project demonstrating how to use computer vision to automatically detect 3-second violations in NBA basketball videos. `Blog`
+
+* Image Generation
+    - **[Artificial Analysis Image Arena](https://artificialanalysis.ai/text-to-image/arena)** - An online tool, the Image Arena, for comparing the performance of various text-to-image models. `Blog`
+
+* Large Language Models
+    - **[Qwen3-235B-A22B-Instruct-2507](https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/)** - A blog post by Simon Willison with notes and analysis on the newly released Qwen3-235B-A22B-Instruct-2507 model. `Blog`
+    - **[Qwen3-Coder-480B-A35B-Instruct](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct)** - The release of the Qwen3-Coder-480B-A35B-Instruct model, a large language model specialized for coding tasks, on Hugging Face. `Package`
+    - **[Recurrent Pretraining with KV Cache Sharing](https://github.com/seal-rg/recurrent-pretraining)** - A code repository for depth-recurrent models, updated with KV cache sharing for higher accuracy and less memory, plus vLLM integration and finetuning examples. `Code`
+    - **[Running Qwen3-Coder on SGLang](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/blob/main/sglang/qwen/coder.md)** - A tutorial and example demonstrating how to run the Qwen3-Coder model on the SGLang inference engine, with features like tool call parser and expert parallelism. `Code`
+    - **[Voxtral-1 8B & 34B: An Open-Source Multilingual Large Language Model Family for Speech and Text](https://arxiv.org/abs/2507.13264)** - The technical report for the Voxtral model family, detailing pre-training, post-training, alignment, evaluations, and analysis of model architecture. `Paper`
+
+* Machine Learning
+    - **[Diffusion Models for Time Series Forecasting: A Survey](https://arxiv.org/abs/2507.14507)** - A survey paper that reviews and categorizes the use of diffusion models for time series forecasting tasks. `Paper`
+    - **[SPIGM Workshop: Score and Probability-based Implicit Generative Models](https://spigmworkshopv3.github.io/)** - The official webpage for the SPIGM workshop on Score and Probability-based Implicit Generative Models, providing details about the event. `Blog`
+
+* Python
+    - **[PyCoder’s Weekly Issue #691: Inheritance, Logging, marimo, and More](https://pycoders.com/issues/691)** - The latest issue of PyCoder's Weekly, covering topics like Python inheritance, logging best practices, the marimo reactive notebook, and more. `Blog`
+
+* Research
+    - **[Should I tell anyone that I suspect misconduct in a paper I’m reviewing?](https://www.nature.com/articles/d41586-025-01954-8)** - An article in Nature offering guidance to peer reviewers on the appropriate steps to take when they suspect scientific misconduct in a manuscript. `Blog`
+    - **[Trouble at t'mill: how MDPI lets reviewers get away with it](https://deevybee.blogspot.com/2025/07/trouble-at-t-review-mill-how-mdpi-lets.html)** - A blog post investigating an alleged 'review mill' at an MDPI journal, discussing issues of peer review integrity. `Blog`
+
+* Software Engineering
+    - **[Top 100 Tech Blogs by Hacker News Popularity](https://refactoringenglish.com/tools/hn-popularity/)** - A curated list of the top 100 technology blogs, ranked by their popularity on Hacker News. `Blog`
+    - **[What I Wish I Knew as a Junior Software Engineer](https://www.youtube.com/watch?v=p8ghbz2WPJ4)** - A video offering advice for junior software engineers, emphasizing principles like 'simplicity beats cleverness'. `Video`
+
+* Statistics
+    - **[Panel Data Estimation and Inference: Homogeneity versus Heterogeneity](https://arxiv.org/abs/2502.03019)** - A paper on panel data estimation and inference, focusing on the trade-offs between homogeneity and heterogeneity assumptions. `Paper`
+    - **[Stan for multimodal mixtures—from exponential CPS to linear DP](https://statmodeling.stat.columbia.edu/2025/07/22/stan-for-multimodal-mixtures-from-exponential-cps-to-linear-dp/)** - A technical blog post on implementing multimodal mixture models in Stan, covering different approaches. `Blog`
+
+* Video Models
+    - **[Flow Equivariant Recurrent Neural Networks](https://kempnerinstitute.harvard.edu/research/deeper-learning/flow-equivariant-recurrent-neural-networks/)** - This post introduces Flow Equivariant RNNs (FERNNs), a novel sequence model designed to improve motion handling in video models by respecting symmetries over time. `Blog`
+    - **[Flow Equivariant Recurrent Neural Networks](https://arxiv.org/abs/2507.14793)** - The paper introducing Flow Equivariant RNNs (FERNNs), a new sequence model designed to improve motion handling in video models by respecting symmetries over time. `Paper`
+
 ## July 21, 2025
 
 * AI/ML
     - **[Qwen3-235B-A22B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507)** - The official Hugging Face model card for Qwen3-235B-A22B-Instruct-2507, a large language model from the Qwen3 series. The page provides model details, usage examples, and licensing information. `Package`
+
+* Causal Inference
+    - **[Better Understanding Triple Differences Estimators](https://arxiv.org/abs/2505.09942)** - A paper that provides a deeper understanding of Triple Differences (DiD D) estimators in causal inference. `Paper`
+    - **[Estimating the Local Average Treatment Effect Without the Exclusion Restriction](https://www.cambridge.org/core/journals/political-analysis/article/abs/estimating-the-local-average-treatment-effect-without-the-exclusion-restriction/DF1BB7FC3EE41DE976A608FAA03A0EA0)** - A paper presenting a method for estimating the Local Average Treatment Effect (LATE) in instrumental variable settings without requiring the exclusion restriction. `Paper`
+    - **[Toward Temporal Causal Representation Learning with Tensor Decomposition](https://arxiv.org/abs/2507.14126)** - This paper explores the use of tensor decomposition for temporal causal representation learning. `Paper`
+    - **[Within-person factorial experiments & log-normal reaction-time data](https://solomonkurz.netlify.app/blog/2025-07-20-within-person-factorial-experiments-log-normal-reaction-time-data/)** - A blog post discussing causal inference for experimental data using multilevel models in R, arguing for the use of g-computation. `Blog`
+
+* Developer Tools
+    - **[Speech generation (text-to-speech)](https://ai.google.dev/gemini-api/docs/speech-generation)** - Official documentation for the Gemini API's speech generation (text-to-speech) capabilities. `Blog`
+
+* Large Language Models
+    - **[Kimi-K2 Technical Report](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)** - The technical report for Kimi-K2, a large language model from Moonshot AI, detailing its architecture and capabilities. `Paper`
+    - **[Qwen Chat](https://chat.qwen.ai/)** - A web interface to interact with and test the Qwen3-235B-A22B-Instruct large language model. `Blog`
+
+* Machine Learning
+    - **[Debiased Machine Learning for Unobserved Heterogeneity: High-Dimensional Panels and Measurement Error Models](https://arxiv.org/abs/2507.13788)** - A paper on debiased machine learning techniques for models with unobserved heterogeneity, focusing on high-dimensional panels and measurement errors. `Paper`
+
+* Research
+    - **[Exclusive: Thousands of papers misidentify microscopes, in possible sign of misconduct](https://retractionwatch.com/2024/08/27/exclusive-thousands-of-papers-misidentify-microscopes-in-possible-sign-of-misconduct/)** - A Retraction Watch article on a study that found thousands of papers misidentify microscopes, suggesting this could be a signal of potential misconduct. `Blog`
+    - **[Systematic analysis of microscope misidentification in the biomedical literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326754)** - A paper finding that microscope misidentification in scientific literature may be a tractable signature for flagging problematic or fraudulent research. `Paper`
+
+* Statistics
+    - **[Multiple comparisons and p-values](https://t.co/mRlOVI9RkH)** - A classic paper by Andrew Gelman, Don B. Rubin, and Hal S. Stern discussing multiple comparisons and p-values, highlighting its continued importance in statistical analysis. `Paper`
+    - **[What’s the range of uncertainty regarding the population of the Americas in 1492?](https://statmodeling.stat.columbia.edu/2025/07/21/whats-the-range-of-uncertainty-regarding-the-population-of-the-americas-in-1492/)** - A blog post discussing the statistical modeling and uncertainty involved in estimating the population of the Americas in 1492. `Blog`
 
 ## July 20, 2025
 
