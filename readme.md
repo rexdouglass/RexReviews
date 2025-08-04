@@ -8,6 +8,15 @@ Topics include: NLP & Agents ,	 Machine Vision,  Causal Inference ,	 General AI/
 
 ---
 
+## August 04, 2025
+
+* Data Science
+    - **[Should you place more trust in scientists if they are “intellectually humble”?](https://statmodeling.stat.columbia.edu/2025/08/04/should-you-place-more-trust-in-scientists-if-they-are-intellectually-humble/)** - A blog post from Andrew Gelman's statistics blog discussing the relationship between intellectual humility in scientists and the trustworthiness of their work. `Blog`
+
+* PyTorch
+    - **[深入浅出PyTorch (PyTorch in Depth)](https://lnkd.in/eWSzbknK)** - A free preview PDF of the Chinese book '深入浅出PyTorch' (PyTorch in Depth), available for download from the publisher Turing. `Book`
+    - **[深入浅出PyTorch (PyTorch in Depth)](https://u.jd.com/vOMr7Sk)** - A link to the e-commerce page on JD.com for purchasing the book '深入浅出PyTorch' (PyTorch in Depth). `Book`
+
 ## July 22, 2025
 
 * AI Infrastructure
